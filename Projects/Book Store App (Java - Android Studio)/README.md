@@ -1,0 +1,3 @@
+# Book Store App
+This app was developed iteretively through an Android App development course in university.
+It applies a wide variety of Android app features including a Card Views, a backend Firebase setup, Swipe Gesture Features and more...
