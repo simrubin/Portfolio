@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Clear all"
+        android:id="@+id/options_menu_clear_all"/>
+    <item android:title="Load book"
+        android:id="@+id/options_menu_load_book"/>
+    <item android:title="Show my ID"
+        android:id="@+id/show_my_id"/>
+</menu>
