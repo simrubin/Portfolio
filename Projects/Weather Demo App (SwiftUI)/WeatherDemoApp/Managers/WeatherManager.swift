@@ -2,7 +2,7 @@
 //  WeatherManager.swift
 //  WeatherApp
 //
-//  Created by Stephanie Diep on 2021-11-30.
+//  Created by Simeon Rubin on 9/1/2024.
 //
 
 import Foundation
