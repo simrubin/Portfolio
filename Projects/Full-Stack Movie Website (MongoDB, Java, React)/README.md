@@ -1,4 +1,4 @@
-#Fullstack Movie Website
+# Fullstack Movie Website
 
 This project was developed through a tutorial from freeCodeCamp.org. It includes a Java backend with springboot, 
 which handles the movie data and updates the review data to a MongoDB database.
