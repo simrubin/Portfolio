@@ -1,4 +1,4 @@
-Welcome to Simeon Rubin's GitHub Repository
+# Welcome to Simeon Rubin's GitHub Repository #
 
 Hi there! 👋 I'm Simeon, a passionate designer and developer, pursuing a Bachelor's degree in Industrial Design and Software Development at Monash University. This is a space for my coding projects, where I showcase a mix of creativity and technical expertise. 
 
