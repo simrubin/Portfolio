@@ -8,14 +8,15 @@ Welcome to the game! This Java-based adventure can be played directly from your 
 
 ---
 
-## 📥 Step 1: Clone the Repository
-
+** 📥 Step 1: Clone the Repository **
 First, clone the repository from GitHub using the following command:
 
 ```bash
 git clone https://github.com/simrubin/Portfolio.git
 
 cd your-repo-name
+
+** 📥 Step 1: Clone the Repository **
 
 ## 🧭 Step 2: Locate Application.java
 The main entry point for the game is the Application.java file. It is located at:
@@ -25,7 +26,7 @@ Projects/
         └── game/
             └── Application.java
 
-## 🛠 Step 4: Run the Game
+**🛠 Step 4: Run the Game **
 Press the 'Run' button in the top right corner of VSCode.
 Recommended: Use a keyboard with a numpad for best gaming experience.
 
