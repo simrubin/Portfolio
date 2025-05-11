@@ -1,32 +1,49 @@
-# Designborne - A Dragonborne - style game
+# 🐉 Designborne — A Dragonborne-Style Java Game
 
-Designborne is a Dragonborne-style Java game. This was created in a group as part of a university assignment to demonstrate SOLID principles and Object-Oriented Programming system design. It was built alongside; Chang Jin Yi, Leo Zhang and Shannon Jian Hong Chia. Here's a link to the codebase, it also includes UML diagrams, sequence diagrams and rationales.
+**Designborne** is a Dragonborne-inspired Java game created as part of a university group project. The goal was to demonstrate the **SOLID principles** and **Object-Oriented Programming (OOP)** system design in Java.
 
-# 🎮 How to Play the Game
+The game was developed collaboratively by:
+- Chang Jin Yi
+- Leo Zhang
+- Shannon Jian Hong Chia
+- Simeon Rubin
 
-Welcome to the game! This Java-based adventure can be played directly from your terminal or command line interface. Follow the steps below to clone the repository, navigate to the source, compile, and run the game.
+The full codebase, UML diagrams, sequence diagrams, and design rationales are available [here](https://github.com/simrubin/Portfolio).
 
 ---
 
-** 📥 Step 1: Clone the Repository **
+## 🎮 How to Play the Game
+
+Welcome to the game! This Java-based adventure can be run directly from your terminal or using an IDE like VSCode. Follow the steps below to get started.
+
+---
+
+### 📥 Step 1: Clone the Repository
+
 First, clone the repository from GitHub using the following command:
 
 ```bash
-git clone https://github.com/simrubin/Portfolio.git
+git clone [https://github.com/simrubin/Portfolio.git](https://github.com/simrubin/Portfolio.git)
+cd Portfolio
+```
 
-cd your-repo-name
+### 🧭 Step 2: Locate Application.java
 
-** 📥 Step 1: Clone the Repository **
+The main entry point for the game is the `Application.java` file, located at:
 
-## 🧭 Step 2: Locate Application.java
-The main entry point for the game is the Application.java file. It is located at:
+```
 Projects/
 └── Designborne Game - Group Project (Java)/
     └── src/
         └── game/
             └── Application.java
+```
 
-**🛠 Step 4: Run the Game **
-Press the 'Run' button in the top right corner of VSCode.
-Recommended: Use a keyboard with a numpad for best gaming experience.
+### 🛠 Step 3: Run the Game
 
+**Using VSCode**
+1. Open the project folder in VSCode.
+2. Navigate to `Application.java`.
+3. Click the “Run” button in the top-right corner.
+
+✅ Recommended: Use a keyboard with a numpad for the best gameplay experience.
